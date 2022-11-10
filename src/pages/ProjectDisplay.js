@@ -13,7 +13,6 @@ function ProjectDisplay() {
       <p>
         <b>Skills:</b> {project.skills}
       </p>
-      <p onClick={() => window.open('https://fasping.github.io/ProjectOneIronHack/', '_blank')}>{project.link}</p>
     </div>
   );
 }

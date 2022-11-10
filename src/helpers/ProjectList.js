@@ -13,7 +13,6 @@ export const ProjectList = [
     name: "Mini Game",
     image: Proj2,
     skills: "Vanilla Javascript, Css, Canvas",
-    link: "=> click me to play <=",
   },
     {
     name: "Responsive Portfolio",
