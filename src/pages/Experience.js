@@ -41,21 +41,7 @@ function Experience() {
 
           <p> FullStack Web Developer</p>
         </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="2022 - 2022"
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Freelance Frontend Developer
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Sweden
-          </h4>
-          <p>Developed the frontend infrastructure for 1 project.</p>
-        </VerticalTimelineElement>
-
+  
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2022 - present"
