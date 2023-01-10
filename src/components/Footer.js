@@ -1,17 +1,46 @@
 import React from "react";
-import GithubIcon from "@mui/icons-material/GitHub";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import "../styles/Footer.css";
+import { Container, Row, Col } from "react-bootstrap";
+import { AiFillGithub } from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
+  let date = new Date();
+  let year = date.getFullYear();
   return (
-    <div className="footer">
-      <div className="socialMedia">
-        <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/fernandocases94/', '_blank')}/>
-        <GithubIcon onClick={() => window.open('https://github.com/Fasping', '_blank')}/>
-      </div>
-      <p> &copy; Fernando Cases | 2022</p>
-    </div>
+    <Container fluid className="footer">
+      <Row>
+        <Col md="4" className="footer-copywright">
+          <h3>Developed by Fernando Cases</h3>
+        </Col>
+        <Col md="4" className="footer-copywright">
+          <h3>Copyright © {year}</h3>
+        </Col>
+        <Col md="4" className="footer-body">
+          <ul className="footer-icons">
+            <li className="social-icons">
+              <a
+                href="https://github.com/Fasping"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillGithub />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.linkedin.com/in/fernandocases94/"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaLinkedinIn />
+              </a>
+            </li>
+          </ul>
+        </Col>
+      </Row>
+    </Container>
   );
 }
 
