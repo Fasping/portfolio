@@ -9,10 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Fernando </span>
-            from <span className="purple"> Barcelona, Spain.</span>
-            <br />
-            living in <span className="purple"> Stockholm, Sweden </span>
-            for few years.
+            from <span className="purple"> Barcelona, Spain 🇪🇸</span>
+            <br />I am currently residing
+            <span className="purple"> Stockholm, Sweden 🇸🇪 </span>
             <br />
             <br />
             <br />
