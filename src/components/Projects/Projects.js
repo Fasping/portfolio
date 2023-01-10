@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
+import charts from "../../Assets/Projects/barras-app.png";
 import synonymous from "../../Assets/Projects/synonymous.png";
 import minigame from "../../Assets/Projects/minigame.png";
 import kings from "../../Assets/Projects/kings.png";
-import clicks from "../../Assets/Projects/click-ts.png";
+import clicks from "../../Assets/Projects/clicks-ts.png";
 import web3 from "../../Assets/Projects/web3.png";
 
 function Projects() {
@@ -17,9 +17,7 @@ function Projects() {
         <h1 className="project-heading">
           My Recent <strong className="purple">Works </strong>
         </h1>
-        <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
-        </p>
+
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
@@ -55,9 +53,9 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={charts}
               isBlog={false}
-              title="Chart App"
+              title="Display Data in Chart App"
               description="This is a kickass web app that compares player stats using super sleek bar charts. The app includes smooth animations when loading the bars and buttons that let you switch between different time ranges (7 days, 30 days, 90 days, 180 days). It's built using React.js, Vite.js, and Styled Components, so you know it's top quality. Go ahead and give it a try!."
               ghLink="https://github.com/Fasping/Chart_PLAYERS"
             />
@@ -67,8 +65,8 @@ function Projects() {
             <ProjectCard
               imgPath={synonymous}
               isBlog={false}
-              title="Word Finding synonyms 🕵🏼"
-              description="Need some synonym inspiration? This React JS app is here to help! It's a simple search engine that fetches synonyms for any word you enter, using the https://www.datamuse.com/api/. Never be stuck for a word again with this handy tool!"
+              title="Word Finding Synonyms"
+              description="Need some synonym inspiration? Let React JS be your wingman! This simple search engine is like a personal thesaurus that fetches synonyms for any word you enter, using the https://www.datamuse.com/api/. Never be stuck for a word again and impress your friends, colleagues and family with your vast vocabulary using this handy tool!"
               ghLink="https://github.com/Fasping/word-finding-synonymous"
               demoLink="https://word-finding-synonymous.vercel.app/"
             />
@@ -79,7 +77,7 @@ function Projects() {
               imgPath={clicks}
               isBlog={false}
               title="Clicking with Typescript"
-              description="This is a fun and interactive web app built with TypeScript. Simply click anywhere on the page to draw a circle, and use the undo and redo buttons to control your creations. It's a great way to relax and play around with shapes, and it's easy to use for all ages. Give it a try and see what kind of designs you can come up with! 💙"
+              description="This is a fun and interactive web app built with TypeScript. Simply click anywhere on the page to draw a circle, and use the undo and redo buttons to control your creations. It's a great way to relax and play around with shapes, and it's easy to use for all ages. Give it a try and see what kind of designs you can come up with!"
               ghLink="https://github.com/Fasping/create-undo-circle-ts"
               demoLink="https://create-undo-circle-ts.vercel.app/"
             />

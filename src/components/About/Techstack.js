@@ -5,8 +5,7 @@ import {
   DiReact,
   DiNodejs,
   DiCss3,
-  DiSass,
-  DiGit,
+  DiSass
 } from "react-icons/di";
 
 
@@ -27,9 +26,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiSass />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
       </Col>
     </Row>
   );

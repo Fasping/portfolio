@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avataaars.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,29 +19,28 @@ function Home2() {
             <br />
             <br />
             <p className="home-about-body">
-              I am a Frontend developer who likes to craft solid and scalable
-              frontend products with great user experience
+              I am a <b className="purple">Frontend developer </b>
+              who likes to craft solid and scalable frontend products with great
+              user experience.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, React js and CSS. </b>
+                <b className="purple"> Javascript, React js, StyledComponents, Git , Jest and more! </b>
               </i>
               <br />
               <br />
               When I'm not coding, you can find me at the in beach &nbsp;
               <i>
-                <b className="purple">
-                  surfing, climbing, or traveling the world{" "}
-                </b>{" "}
-                search of new adventures. Or, if the weather isn't cooperating,
-                you might find me curled up on the couch with a good book{" "}
-                <b className="purple">(or video game)</b> .
+                <b className="purple">surfing, climbing, or traveling </b> the
+                world search of new adventures. Or, if the weather isn't
+                cooperating, you might find me curled up on the couch with a
+                good book or<b className="purple"> video game</b> .
               </i>
               <br />
               <br />I am a contributor to <b className="purple">OpenSource </b>
-              projects on GitHub that have become
+              projects on GitHub one of them have become
               <i>
-                <b className="purple"> trending globally repository</b>
+                <b className="purple"> trending globally repository</b>.
               </i>
               &nbsp; I participate in the development and maintenance of these
               projects by submitting code, fixing bugs, and suggesting
