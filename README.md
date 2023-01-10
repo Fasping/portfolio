@@ -16,7 +16,7 @@ This project is my personal portfolio, where I share my latest projects made wit
 ## Mockup
 Here's a picture of what my portfolio would look like:
 
-![Mockup of portfolio](portfolio-readme.jpg)
+![Mockup of portfolio](portfolio-readme.png)
 
 ## Projects
 In my portfolio, you'll find a section where you can see all my recent projects. Each project has a detailed description and a link to the source code and/or a demo. They're all pretty cool and I'm super proud of them.
