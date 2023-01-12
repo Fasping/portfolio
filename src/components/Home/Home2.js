@@ -25,13 +25,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, React js, StyledComponents, Git , Jest and more! </b>
+                <b className="purple"> Javascript, React.js, Css, Git , Jest and more! </b>
               </i>
               <br />
               <br />
-              When I'm not coding, you can find me at the in beach &nbsp;
+              When I'm not coding, you can find me at the in beach&nbsp;
               <i>
-                <b className="purple">surfing, climbing, or traveling </b> the
+                <b className="purple">surfing, climbing or traveling </b> the
                 world search of new adventures. Or, if the weather isn't
                 cooperating, you might find me curled up on the couch with a
                 good book or<b className="purple"> video game</b> .

@@ -9,9 +9,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             I am <span className="purple">Fernando </span>
             originally from sunny{" "}
-            <span className="purple"> Barcelona, Spain 🇪🇸 </span>
+            <span className="purple"> Barcelona, Spain </span>
             since 2019 happily making a new home at
-            <span className="purple"> Stockholm, Sweden 🇸🇪 </span>.
+            <span className="purple"> Stockholm, Sweden  </span>.
             <br />
             <br />
             When I'm not busy scribbling code, I like to keep things interesting
@@ -21,7 +21,7 @@ function AboutCard() {
           </p>
 
           <h3 style={{ paddingBottom: "20px", paddingTop: "20px" }}>
-            More about <strong className="purple">Nando</strong> 👀
+            More about <strong className="purple">Nando </strong> 👀
           </h3>
           <p style={{ textAlign: "justify" }}>
             My
