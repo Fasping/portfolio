@@ -1,4 +1,4 @@
-# 🔥 Nando's Portfolio 🚀
+# 🔥 Portfolio 🚀
 
 [WEB](https://portfolio-nando.vercel.app/)
 
