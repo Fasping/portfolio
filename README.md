@@ -10,7 +10,7 @@ This project is my personal portfolio, where I share my latest projects made wit
 
 ## Used Technologies
 - ReactJS as a JavaScript framework to build the user interface
-- React-Bootstrap and Css as a styling framework to customize the page's appearance
+- Css as a styling framework to customize the page's appearance
 - Vercel as a deployment service to make my portfolio available online.
 
 📱 Fully Responsive
