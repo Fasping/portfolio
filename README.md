@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Description
-This project is my personal portfolio, where I share my latest projects made with ReactJS, Tailwind CSS and deployed on Vercel. It's an incredible project, trust me.
+This project is my personal portfolio, where I share my latest projects made with ReactJS, CSS and deployed on Vercel. It's an incredible project, trust me.
 
 ## Used Technologies
 - ReactJS as a JavaScript framework to build the user interface
