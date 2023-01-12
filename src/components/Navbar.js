@@ -26,7 +26,7 @@ function NavBar() {
 
   window.addEventListener("scroll", scrollHandler);
 
-  return (
+  return ( 
     <Navbar
       expanded={expand}
       fixed="top"
