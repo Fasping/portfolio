@@ -5,8 +5,17 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+<h3>:books: Getting started</h3>
+
+1. Give ⭐️ to this repo!
+2. Fork and clone this project.
+3. Install required dependencies with `npm install`.
+4. Change the content.
+5. Enjoy! 
+
+
 ## Project Description
-This project is my personal portfolio, where I share my latest projects made with ReactJS, CSS and deployed on Vercel. It's an incredible project, trust me.
+This project is my personal portfolio, where I share my latest projects made with ReactJS, CSS and deployed on Vercel. It's an incredible project, trust me. Feel free to use like a Template! 
 
 ## Used Technologies
 - ReactJS as a JavaScript framework to build the user interface
