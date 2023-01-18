@@ -23,18 +23,20 @@ function Home2() {
               who likes to craft solid and scalable frontend products with great
               user experience.
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> Javascript, React.js, Css, Git , Jest and more! </b>
-              </i>
+              <br />
+              Like a Jedi with a lightsaber, I wield the power of{" "}
+              <b className="purple">Javascript, React.js, Css, Git, Jest</b> and
+              more with ease. Though I may not be fully fluent, I approach my
+              work with a relaxed and natural style, always striving for
+              excellence.
               <br />
               <br />
-              When I'm not coding, you can find me at the in beach&nbsp;
+              When I'm not coding, you can find me at the beach&nbsp;
               <i>
                 <b className="purple">surfing, climbing or traveling </b> the
                 world search of new adventures. Or, if the weather isn't
                 cooperating, you might find me curled up on the couch with a
-                good book or<b className="purple"> video game</b> .
+                good book or<b className="purple"> videogame</b> .
               </i>
               <br />
               <br />I am a contributor to <b className="purple">OpenSource </b>
