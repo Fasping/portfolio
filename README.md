@@ -1,4 +1,4 @@
-# 🔥 Portfolio with React js🚀
+# 🔥 Portfolio FE Developer 🚀
 
 [WEB](https://portfolio-nando.vercel.app/)
 
@@ -15,7 +15,7 @@
 
 
 ## Project Description
-This project is my personal portfolio, where I share my latest projects made with ReactJS, CSS and deployed on Vercel. It's an incredible project, trust me. Feel free to use like a Template! 
+This project is my personal portfolio, where I share my latest projects made with ReactJS, CSS and React Boostrap and deployed on Vercel. It's an incredible project, trust me. Feel free to use like a Template! 
 
 ## Used Technologies
 - ReactJS as a JavaScript framework to build the user interface
