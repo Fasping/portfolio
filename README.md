@@ -1,4 +1,4 @@
-# 🔥 Portfolio 🚀
+# 🔥 Portfolio with React js🚀
 
 [WEB](https://portfolio-nando.vercel.app/)
 
@@ -19,7 +19,7 @@ This project is my personal portfolio, where I share my latest projects made wit
 
 ## Used Technologies
 - ReactJS as a JavaScript framework to build the user interface
-- Css as a styling framework to customize the page's appearance
+- Css and React Boostrap as a styling framework to customize the page's appearance
 - Vercel as a deployment service to make my portfolio available online.
 
 📱 Fully Responsive
