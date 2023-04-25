@@ -17,9 +17,10 @@ function Home2() {
             <br />
             <br />
             <p className="home-about-body">
-              I am a <b className="purple">Full Stack developer </b>
-              who likes to craft solid and scalable frontend/backend products
-              with great user experience.
+              I am a <b className="purple">Full Stack developer </b> who
+              specializes in <b className="purple">frontend</b> development who
+              likes to craft solid and scalable frontend products with great
+              user experience.
               <br />
               <br />
               Like a Jedi with a lightsaber, I wield the power of{" "}
