@@ -1,6 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { DiJsBadge, DiReact, DiCss3, DiSass, DiGit } from "react-icons/di";
+import {
+  DiJsBadge,
+  DiReact,
+  DiCss3,
+  DiSass,
+  DiGit,
+  DiNodejs,
+} from "react-icons/di";
 import { SiTypescript, SiJest } from "react-icons/si";
 
 function Techstack() {
@@ -11,6 +18,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTypescript />
